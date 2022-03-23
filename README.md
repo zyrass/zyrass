@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api?username=Zyrass&show_icons=true)
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green)
-![Image des contributeurs GitHub](https://contrib.rocks/image?repo=Zyrass/https://github.com/Zyrass/Bash-L_Store)
  
  ## 😂 Voici une blague aléatoire qui vous fera rire!
  ![Carte de blagues](https://readme-jokes.vercel.app/api)
- ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
- ![Hits] https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
+ ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=zyrass)
+ ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Zyrass/Bash-L_Store)
  
  ## 1. Statistiques GitHub
  ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api?username=Zyrass&show_icons=true)
