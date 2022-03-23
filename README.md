@@ -8,7 +8,7 @@
 ## Quelques projets que j'affectionne
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Bash-L_Store&show_owner=true&theme=dracula&title_color=89e051) 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=dracula)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=dracula&title_color=f1e05a)
 
 ---
 
@@ -19,6 +19,9 @@
 ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Zyrass) - 
 
 <!--
+
+jaune = f1e05a
+vert = 89e051
 
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green)
 ![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=cobalt)
