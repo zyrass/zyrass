@@ -3,18 +3,11 @@
 1
 ![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=radical) 
 ![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=dracula) 
-2
-![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=highcontrast) 
-![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=synthwave) 
 3
 ![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=cobalt) 
-![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=onedark) 
 4
-![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=gruvbox) 
 ![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=tokyonight) 
-5
-![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=merko) 
-![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=dark)
+
 
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green)
 
