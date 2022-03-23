@@ -7,10 +7,12 @@
 
 ## Quelques projets que j'affectionne
 
-<center>
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Bash-L_Store&show_owner=true&theme=dracula&title_color=89e051) 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=dracula&title_color=f1e05a&locale=fr)
-</center>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&langs_count=8)](https://github.com/Zyrass/github-readme-stats)
 
 ---
 
