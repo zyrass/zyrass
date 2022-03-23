@@ -9,7 +9,7 @@
 
 ---
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=github-readme-stats)](https://github.com/Zyrass/Bash-L_Store)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=https://github.com/Zyrass/Bash-L_Store)](https://github.com/Zyrass/Bash-L_Store)
 
 ---
 
