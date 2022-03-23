@@ -2,6 +2,9 @@
 
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass)](https://github.com/Zyrass/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs)
+
+
 ---
 
 ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Zyrass) - 
