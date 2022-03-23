@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green)
+![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass)](https://github.com/Zyrass/github-readme-stats)
 
 ---
 
 ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Zyrass) - 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass)](https://github.com/Zyrass/github-readme-stats)
+
 
 <!--
 **Zyrass/zyrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
