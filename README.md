@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars) 
+![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars) 
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green)
 
-
+![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&show_icons=true)
 ---
 
 ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Zyrass) - 
