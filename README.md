@@ -3,6 +3,8 @@
 - 🔭 Je travaille actuellement sur divers projets comme **Bash-L Store**, mon labytinthe fait sur **UNITY 3D**.
 - 🌱 Je suis en train d’apprendre **Vue3**, **Symfony**, **TailwindCSS 3**, **Flutter** et **Dart**.
 
+---
+
 ![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=dracula) 
 
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green)
@@ -10,8 +12,6 @@
 ---
 
 ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Zyrass) - 
-
-
 
 <!--
 ![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=cobalt)
@@ -22,8 +22,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
