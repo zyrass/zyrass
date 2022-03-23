@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api?username=Zyrass&show_icons=true)
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green)
-![Image des contributeurs GitHub](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name)
+![Image des contributeurs GitHub](https://contrib.rocks/image?repo=Zyrass/https://github.com/Zyrass/Bash-L_Store)
  
  ## 😂 Voici une blague aléatoire qui vous fera rire!
  ![Carte de blagues](https://readme-jokes.vercel.app/api)
