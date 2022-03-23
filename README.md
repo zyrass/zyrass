@@ -5,14 +5,13 @@
 
 ---
 
-![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=dracula&show_icons=true&card_width=1000) 
+## Quelques projets que j'affectionne
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Bash-L_Store&show_owner=true&theme=dracula) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=cobalt)
 
 ---
 
-## Quelques projets que j'affectionne
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Bash-L_Store&show_owner=true&theme=dracula) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard)
-
+![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=dracula&show_icons=true&card_width=1000) 
 
 ---
 
