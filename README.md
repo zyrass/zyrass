@@ -12,7 +12,7 @@
 
 ---
 
-![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=dracula&show_icons=true&card_width=1000&locale=fr) 
+![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=prussian&show_icons=true&card_width=1000&locale=fr) 
 
 ---
 
