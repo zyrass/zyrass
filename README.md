@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 Je travaille actuellement sur divers projets comme **Bash-L Store**, mon labytinthe fait sur **UNITY 3D**.
+- 🌱 Je suis en train d’apprendre **Vue3**, **Symfony**, **TailwindCSS 3**, **Flutter** et **Dart**.
+
 ![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=dracula) 
 
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green)
