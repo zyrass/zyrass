@@ -9,6 +9,7 @@
 
 ---
 
+## Quelques projets que j'affectionne
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Bash-L_Store) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard)
 
