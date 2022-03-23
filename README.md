@@ -9,6 +9,10 @@
 
 ---
 
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=github-readme-stats)](https://github.com/Zyrass/Bash-L_Store)
+
+---
+
 ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Zyrass) - 
 
 <!--
