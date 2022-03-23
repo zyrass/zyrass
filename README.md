@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Statistiques de votre référentiel] https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green
  ! [Image des contributeurs GitHub] https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name
  ## 😂 Voici une blague aléatoire qui vous fera rire!
- ![Carte de blagues] https://readme-jokes.vercel.app/api
+ ![Carte de blagues](https://readme-jokes.vercel.app/api)
  ![Compteur de vues de profil] https://komarev.com/ghpvc/?username=Your_GitHub_Username
  ![Hits] https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here
  # Top 5 des badges qui feront passer votre référentiel GitHub au niveau supérieur
