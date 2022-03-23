@@ -8,18 +8,8 @@
 ## Quelques projets que j'affectionne
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Bash-L_Store&show_owner=true&theme=dracula&title_color=89e051) 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Unity-First_Game&show_owner=true&theme=dracula&title_color=178600) 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=dracula&title_color=f1e05a&locale=fr)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&langs_count=8)](https://github.com/Zyrass/github-readme-stats)
 
 ---
 
@@ -31,8 +21,9 @@
 
 <!--
 
-jaune = f1e05a
-vert = 89e051
+CS    = 178600
+JS    = f1e05a
+SHELL = 89e051
 
 ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green)
 ![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=cobalt)
