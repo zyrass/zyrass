@@ -14,24 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
- ## 😂 Voici une blague aléatoire qui vous fera rire!
- ![Carte de blagues](https://readme-jokes.vercel.app/api)
- ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=zyrass)
- 
- ## 2. Langues les plus utilisées
- ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green)
- 
- <!--
+
+<!--
  ## 3. Badge des contributeurs
  ![Statistiques de votre référentiel](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
 --> 
-
- ## 4. Générateur de blagues aléatoires
+ 
+ ## 1. Langues les plus utilisées
+ ![Statistiques de votre référentiel](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyrass&theme=blue-green)
+ 
+ ## 2. Générateur de blagues aléatoires
  ![Carte de blagues](https://readme-jokes.vercel.app/api)
  
- ## 5. Compteur de vues de profil
+ ## 3. Compteur de vues de profil
  ![Compteur de vues de profil](https://komarev.com/ghpvc/?username=Zyrass)
  
- ### Repository View Counter - HITS
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Zyrass/Python)
+ ## 4. Repository View Counter - HITS
+ ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=github.com/Zyrass/Bash-L_Store)
