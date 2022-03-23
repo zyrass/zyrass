@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello les Devs 👋
 
 - 🔭 Je travaille actuellement sur divers projets comme **Bash-L Store**, mon labytinthe fait sur **UNITY 3D**.
 - 🌱 Je suis en train d’apprendre **Vue3**, **Symfony**, **TailwindCSS 3**, **Flutter** et **Dart**.
