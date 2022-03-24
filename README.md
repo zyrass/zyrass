@@ -7,10 +7,14 @@
 
 ## Quelques projets que j'affectionne
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Bash-L_Store&show_owner=true&theme=dracula&title_color=89e051) 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Unity-First_Game&show_owner=true&theme=dracula&title_color=178600) 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=dracula&title_color=f1e05a&locale=fr)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=vue3_bac_a_sable_decouverte&theme=dracula&title_color=f1e05a&locale=fr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Bash-L_Store&show_owner=true&theme=dracula&title_color=89e051)](https://github.com/Zyrass/Bash-L_Store)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Unity-First_Game&show_owner=true&theme=dracula&title_color=178600)](https://github.com/Zyrass/Unity-First_Game)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=dracula&title_color=f1e05a&locale=fr)](https://github.com/Zyrass/vue3_bac_a_sable_decouverte)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=vue3_bac_a_sable_decouverte&theme=dracula&title_color=f1e05a&locale=fr)()
 
 
 
