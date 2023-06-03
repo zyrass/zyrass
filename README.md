@@ -5,6 +5,13 @@
 - 🌱 Je me passionne pour les technologies suivantes: **C#**, **Angular**, **NodeJS**, **Express** et **MongoDB**.
 - 🌱 J'ai déjà utilisé: **React**, **React Native**, **Symfony 5 et 6**, **Python 3** et bien d'autres encore.
 
+- 👋 Hi, I'm Alain GUILLON, i'm thirty-eight and i love the JavaScript Stack
+- 👀 I’m interested by coding in general. I want learn to use the backend with nodeJS but i'm not closed with symfony.
+- 🌱 I am currently learning many programming languages at IT-Akademy. I want to become a fullstack developer.
+- 💞️ I’m looking to collaborate on React, React Native, NodeJS et maybe on NextJS.
+- 📫 My discord name it's **Zyrass#3169**, my email is **alain.guillon.69330@gmail.com** and i need of projects on the javascript stack with React library
+
+
 ---
 
 ## Quelques projets que j'affectionne
