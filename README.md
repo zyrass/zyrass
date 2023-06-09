@@ -1,3 +1,71 @@
+<p align="center">
+    <img src="./result.png" alt="arduino" />
+</p>
+
+<p align="center">
+    <img
+            src="https://komarev.com/ghpvc/?username=zyrass&label=Vue%20du%20profile%20Zyrass&color=0e75b6&style=flat"
+            alt="zyrass"
+        />
+</p>
+
+---
+
+<h1 align="center">Salut 👋, je suis Alain GUILLON</h1>
+<h3 align="center">🔥  Passionné du Code | 🛠️ Construisons l'Avenir ensemble</h3>
+
+<img align="right" alt="Coding" width="500" style="padding-top:45px" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+
+🔭 Je travaille actuellement sur **une multitude de projets palpitants !** 💥
+
+🌱 Je me plonge dans les **technologies de pointe et je nourris ma soif d'apprentissage en développement logiciel. Toujours prêt à dévorer de nouvelles compétences et à évoluer !** 🚀
+
+👯 Je suis à la recherche de **collaborations surprenantes et de développeurs partageant ma passion !** 🤝
+
+🤝 J'ai besoin d'un coup de main pour **affiner mon code et explorer de nouvelles technologies. Ouvert à l'apprentissage et à la collaboration avec des magiciens du développement expérimentés !** 🧙‍♂️✨
+
+💬 Interrogez-moi sur **tout ce qui touche à la programmation, au développement logiciel ou aux tendances technologiques. Je suis là pour partager mes connaissances et discuter dans la bonne humeur !** 💡🗣️
+
+📫 Comment me contacter ? **dev.alain.guillon@gmail.com**. 
+N'hésitez pas à m'envoyer un message, je réponds plus vite que la vitesse de la lumière ! 📩💨
+
+⚡ Saviez-vous que les développeurs ont un superpouvoir ? Ils peuvent **transformer du café en code avec une simple incantation !** ☕✨
+
+<h3 align="center">Les technologies que j'affectionne</h3>
+<p align="center"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+</p>
+
+
+<h3 align="center">Suivez-moi et connectons-nous en un clic !</h3>
+<p align="center">
+    <a href="https://linkedin.com/in/alainguillon" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alain guillon" height="50" width="50" style="padding: 0 25px 0 0"
+        />
+    </a>
+    <a href="https://twitter.com/Zyrass69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alain guillon" height="50" width="50" />
+    </a>
+</p>
+
+<h3 align="center" style="padding: 25px 0; text-transform: uppercase">Quelques projets</h3>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Bash-L_Store&show_owner=true&theme=prussian&title_color=89e051)](https://github.com/Zyrass/Bash-L_Store)&nbsp;&nbsp;tp mini casino[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-react-refonte-pizzeria&show_owner=true&theme=prussian&title_color=89e051)](https://github.com/Zyrass/perso-projet-react-refonte-pizzeria)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-react-refonte-pizzeria&show_owner=true&theme=prussian&title_color=20A0FF&card_width=50%&locale=fr)](https://github.com/Zyrass/TP-MiniCasino)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=tkinter_python&show_owner=false&theme=prussian&title_color=3572A5)](https://github.com/Zyrass/tkinter_python)&nbsp;&nbsp;pizza react[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=prussian&title_color=f1e05a&locale=fr)](https://github.com/Zyrass/vue3_bac_a_sable_decouverte)&nbsp;&nbsp;gestionnaire contact node[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=vue3_bac_a_sable_decouverte&theme=prussian&title_color=f1e05a&locale=fr)](https://github.com/Zyrass/vue3_bac_a_sable_decouverte)&nbsp;&nbsp;rn cocktail[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=vue3_bac_a_sable_decouverte&theme=prussian&title_color=f1e05a&locale=fr)](https://github.com/Zyrass/vue3_bac_a_sable_decouverte)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=BikeCityVanilla&theme=prussian&title_color=f1e05a&locale=fr)](https://github.com/Zyrass/BikeCityVanilla)&nbsp;&nbsp;
+
+
+[![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=prussian&show_icons=true&card_width=1000&locale=fr)](https://github.com/Zyrass)
+
+---
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-hatim&show_icons=true&locale=en&layout=compact" alt="anas-hatim" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anas-hatim&show_icons=true&locale=en" alt="anas-hatim" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-hatim&" alt="anas-hatim" /></p>
+
 ### Hello les Devs 👋
 
 - 🔭 Je suis actuellement à l'IT-Akademy pour me former en tant que développeur fullstack (bac +4).
@@ -16,11 +84,9 @@
 
 ## Quelques projets que j'affectionne
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Bash-L_Store&show_owner=true&theme=dracula&title_color=89e051)](https://github.com/Zyrass/Bash-L_Store) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Unity-First_Game&show_owner=true&theme=dracula&title_color=178600)](https://github.com/Zyrass/Unity-First_Game) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=flutter_bac_a_sable&show_owner=false&theme=dracula&title_color=00B4AB)](https://github.com/Zyrass/flutter_bac_a_sable) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=dracula&title_color=f1e05a&locale=fr)](https://github.com/Zyrass/vue3_bac_a_sable_decouverte) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=vue3_bac_a_sable_decouverte&theme=dracula&title_color=f1e05a&locale=fr)](https://github.com/Zyrass/vue3_bac_a_sable_decouverte)
 
 ---
 
-[![Zyrass GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyrass&hide=contribs,prs,issues,stars&theme=prussian&show_icons=true&card_width=1000&locale=fr)](https://github.com/Zyrass)
 
 ---
 
