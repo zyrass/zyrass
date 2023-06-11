@@ -97,33 +97,23 @@
 
 <h3 align="center" style="margin: 50px 0; text-transform: uppercase;">Quelques projets</h3>
 
-<div style="margin: 50px 0 0" align="center">
-    <a href="https://github.com/Zyrass/Bash-L_Store/github-readme-stats">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zyrass&repo=Bash-L_Store&show_owner=true&theme=prussian&title_color=89e051&locale=fr" />
+<div align="center">
+<a href="https://github.com/Zyrass/Bash-L_Store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyrass&repo=Bash-L_Store&show_owner=true&theme=prussian&title_color=89e051&locale=fr" />
+</a>&nbsp;<a href="https://github.com/Zyrass/BikeCityVanilla">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyrass&repo=BikeCityVanilla&theme=prussian&title_color=f1e05a&locale=fr" />
+</a>&nbsp;&nbsp;<a href="https://github.com/Zyrass/tkinter_python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=tkinter_python&show_owner=false&theme=prussian&title_color=3572A5" />
+    </a>&nbsp;<a href="https://github.com/Zyrass/perso-projet-react-refonte-pizzeria">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-react-refonte-pizzeria&show_owner=true&theme=prussian&title_color=89e051" />
+    </a>&nbsp;<a href="https://github.com/Zyrass/perso-projet-vanillajs-virtual-keyboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=prussian&title_color=f1e05a&locale=fr" />
+    </a>&nbsp;<a href="https://github.com/Zyrass/QATest_PhpUnit/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=QATest_PhpUnit&theme=prussian&title_color=4F5F95&locale=fr" />
     </a>
-    <a href="https://github.com/Zyrass/BikeCityVanilla/github-readme-stats">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=zyrass&repo=BikeCityVanilla&theme=prussian&title_color=f1e05a&locale=fr" />
-    </a>
-</div>
-<div style="margin: 25px 0" align="center">
-    <a href="https://github.com/Zyrass/tkinter_python/github-readme-stats">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=tkinter_python&show_owner=false&theme=prussian&title_color=3572A5" />
-    </a>
-    <a href="https://github.com/Zyrass/perso-projet-react-refonte-pizzeria/github-readme-stats">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-react-refonte-pizzeria&show_owner=true&theme=prussian&title_color=89e051" />
-    </a>
-</div>
-<div style="margin: 25px 0 200px" align="center">
-    <a href="https://github.com/Zyrass/perso-projet-vanillajs-virtual-keyboard/github-readme-stats">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=prussian&title_color=f1e05a&locale=fr" />
-    </a>
-    <a href="https://github.com/Zyrass/QATest_PhpUnit/github-readme-stats">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=QATest_PhpUnit&theme=prussian&title_color=4F5F95&locale=fr" />
-    </a>
-</div>
+<div>
 
-<br>
-<h3 align="center" style="margin: 300px 0 50px; text-transform: uppercase;">Mes statistiques sur github</h3>
+<h3 align="center" style="margin: 50px 0 50px; text-transform: uppercase;">Mes statistiques sur github</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=zyrass&theme=nord&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4&locale=fr&row=3)
 
@@ -131,9 +121,6 @@
 />
 
 <h3 align="center" style="margin: 50px 0 25px; text-transform: uppercase">🌐 CONNECTEZ-VOUS À MES RÉSEAUX SOCIAUX EN UN CLIC !</h3>
-<p align="center" style="margin: 25px 0">
-📩 N'hésitez pas à m'envoyer un message, je réponds plus vite que la vitesse de la lumière... enfin ça dépends de mes disponibilités également ! 💨📫
-</p>
 
 <p align="center">
     <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="alain guillon" style="padding: 0 25px 0 0"
