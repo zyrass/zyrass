@@ -113,11 +113,13 @@
     </a>
 <div>
 
-<h3 align="center" style="margin: 50px 0 50px; text-transform: uppercase;">Mes statistiques sur github</h3>
+<h3 align="center" style="margin: 50px 0; text-transform: uppercase;">Mes statistiques sur github</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=zyrass&theme=nord&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4&locale=fr&row=3)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyrass&theme=prussian&locale=fr" alt="zyrass" />&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyrass&show_icons=true&theme=prussian&locale=fr" alt="zyrass"
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyrass&theme=prussian&locale=fr" alt="zyrass" />
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyrass&show_icons=true&theme=prussian&locale=fr" alt="zyrass"
 />
 
 <h3 align="center" style="margin: 50px 0 25px; text-transform: uppercase">🌐 CONNECTEZ-VOUS À MES RÉSEAUX SOCIAUX EN UN CLIC !</h3>
