@@ -200,18 +200,28 @@
 <h3 align="center" style="margin: 50px 0; text-transform: uppercase;">Quelques projets</h3>
 
 <div align="center">
-    <a href="https://github.com/Zyrass/Bash-L_Store/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zyrass&repo=Bash-L_Store" />
-    </a>
-    <a href="https://github.com/Zyrass/Bash-L_Store/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zyrass&repo=Bash-L_Store" />
-    </a>
-    <a href="https://github.com/Zyrass/Bash-L_Store/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=zyrass&repo=Bash-L_Store" />
-    </a>
+    <div style="margin: 50px 0 0">
+        <a href="https://github.com/Zyrass/Bash-L_Store/github-readme-stats">
+            <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=zyrass&repo=Bash-L_Store&show_owner=true&theme=prussian&title_color=89e051&locale=fr" />
+        </a>
+        <a href="https://github.com/Zyrass/BikeCityVanilla/github-readme-stats">
+            <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=zyrass&repo=BikeCityVanilla&theme=prussian&title_color=f1e05a&locale=fr" />
+        </a>
+    </div>
+    <div style="margin: 25px 0">
+        <a href="https://github.com/Zyrass/tkinter_python/github-readme-stats">
+            <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=tkinter_python&show_owner=false&theme=prussian&title_color=3572A5" />
+        </a>
+        <a href="https://github.com/Zyrass/perso-projet-react-refonte-pizzeria/github-readme-stats">
+            <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-react-refonte-pizzeria&show_owner=true&theme=prussian&title_color=89e051" />
+        </a>
+    </div>
+    <div style="margin: 25px 0">
+        <a href="https://github.com/Zyrass/perso-projet-vanillajs-virtual-keyboard/github-readme-stats">
+            <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=prussian&title_color=f1e05a&locale=fr" />
+        </a>
+    </div>
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=Bash-L_Store&show_owner=true&theme=prussian&title_color=89e051)](https://github.com/Zhttps://www.vectorlogo.zone/logos/trello/trello-icon.svgyrass/Bash-L_Store)&nbsp;&nbsp;tp mini casino[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-react-refonte-pizzeria&show_owner=true&theme=prussian&title_color=89e051)](https://github.com/Zyrass/perso-projet-react-refonte-pizzeria)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-react-refonte-pizzeria&show_owner=true&theme=prussian&title_color=20A0FF&card_width=50%&locale=fr)](https://github.com/Zyrass/TP-MiniCasino)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=tkinter_python&show_owner=false&theme=prussian&title_color=3572A5)](https://github.com/Zyrass/tkinter_python)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=perso-projet-vanillajs-virtual-keyboard&theme=prussian&title_color=f1e05a&locale=fr)](https://github.com/Zyrass/vue3_bac_a_sable_decouverte)&nbsp;&nbsp;gestionnaire contact node[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=vue3_bac_a_sable_decouverte&theme=prussian&title_color=f1e05a&locale=fr)](https://github.com/Zyrass/vue3_bac_a_sable_decouverte)&nbsp;&nbsp;rn cocktail[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=vue3_bac_a_sable_decouverte&theme=prussian&title_color=f1e05a&locale=fr)](https://github.com/Zyrass/vue3_bac_a_sable_decouverte)&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zyrass&repo=BikeCityVanilla&theme=prussian&title_color=f1e05a&locale=fr)](https://github.com/Zyrass/BikeCityVanilla)&nbsp;&nbsp;
 
 <h3 align="center" style="margin: 50px 0; text-transform: uppercase;">Mes statistiques sur github</h3>
 
