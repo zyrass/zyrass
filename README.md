@@ -14,7 +14,7 @@
 <h1 align="center" style="margin:50px 0;">Salut 👋, je m'appel Alain GUILLON</h1>
 <h3 align="center" style="margin:50px 0;">🔥  Je suis un passionné par les langages de programmation <br> 🛠️ Je vous propose de construire l'avenir ensemble</h3>
 
-🎓 Je suis actuellement édutiant à **l'IT-AKADEMY** afin de devenir **développeur fullstack** sur Lyon. ( _Bac +4_ )
+🎓 Je suis actuellement édutiant à **l'IT-AKADEMY** afin de devenir **expert en cybersécurité (RSSI)** sur Lyon. ( _Bac +5_ ) après avoir réussi avec succès ma première reconvertion en tant que développeur fullstack dans cette même école ( _Bac +4_ )
 
 🚀 Je me plonge dans les **technologies de pointe et je nourris ma soif d'apprentissage en développement logiciel. Toujours prêt à dévorer de nouvelles compétences et à évoluer !**
 
