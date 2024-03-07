@@ -12,7 +12,7 @@
 ---
 
 <h1 align="center" style="margin:50px 0;">Développeur Full Stack certifié (Bac+4) - Avec les félicitations du jury</h1>
-<h3 align="center" style="margin:50px 0;">Construisons l'avenir ensemble</h3>
+<h2 align="center" style="margin:50px 0;">Construisons l'avenir ensemble</h2>
 
 - Après plusieurs années d'expérience dans le développement web, j'ai décidé de me spécialiser dans une stack technique ciblée comprenant Angular, C#, ASP.NET et NestJS pour la partie MongoDB. Cette décision stratégique me permettra d'approfondir mes compétences et de devenir un expert dans ces technologies de pointe.
 - Côté Front-end, Angular est mon framework de prédilection pour développer des applications web modernes, performantes et évolutives. Sa structure basée sur TypeScript et son écosystème riche offrent une expérience de développement fluide et productive.
