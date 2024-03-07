@@ -11,18 +11,17 @@
 
 ---
 
-<h1 align="center" style="margin:50px 0;">Salut 👋, je m'appel Alain GUILLON</h1>
-<h3 align="center" style="margin:50px 0;">🔥  Je suis un passionné par les langages de programmation <br> 🛠️ Je vous propose de construire l'avenir ensemble</h3>
+<h1 align="center" style="margin:50px 0;">Développeur Full Stack certifié (Bac+4)</h1>
+<h3 align="center" style="margin:50px 0;">Construisons l'avenir ensemble</h3>
 
-🎓 Je suis actuellement édutiant à **l'IT-AKADEMY** afin de devenir **expert en cybersécurité (RSSI)** sur Lyon. ( _Bac +5_ ) après avoir réussi avec succès ma première reconvertion en tant que développeur fullstack dans cette même école ( _Bac +4_ )
+- Après plusieurs années d'expérience dans le développement web, j'ai décidé de me spécialiser dans une stack technique ciblée comprenant Angular, C#, ASP.NET et NestJS pour la partie MongoDB. Cette décision stratégique me permettra d'approfondir mes compétences et de devenir un expert dans ces technologies de pointe.
+- Côté Front-end, Angular est mon framework de prédilection pour développer des applications web modernes, performantes et évolutives. Sa structure basée sur TypeScript et son écosystème riche offrent une expérience de développement fluide et productive.
+- Pour le Back-end, j'ai opté pour C# et ASP.NET, un environnement robuste et fiable, particulièrement adapté aux applications d'entreprise. Je cherche à apprendre également NestJS, un framework Node.js puissant, pour interagir avec des bases de données MongoDB.
+- Du côté des opérations, j'apprécie travailler avec des outils comme NGinx, Docker et Github Actions. Je suis à l'aise avec Git et désireux d'explorer davantage Jenkins pour l'intégration et le déploiement continus.
 
-🚀 Je me plonge dans les **technologies de pointe et je nourris ma soif d'apprentissage en développement logiciel. Toujours prêt à dévorer de nouvelles compétences et à évoluer !**
+> Actuellement, je recherche un poste en CDI dans la région lyonnaise, où je pourrai affiner mon code, partager mon expérience et continuer à apprendre. Mon objectif est de devenir un expert reconnu dans les technologies citées précédemment.
 
-🔍 Je suis à la recherche de **collaborations surprenantes et de développeurs partageant ma passion !**
-
-🙏 J'ai besoin d'un coup de main pour **affiner mon code et explorer de nouvelles technologies. Ouvert à l'apprentissage et à la collaboration avec des magiciens du développement expérimentés !**
-
-💬 Interrogez-moi sur **tout ce qui touche à la programmation, au développement logiciel ou aux tendances technologiques. Je suis là pour partager mes connaissances et discuter dans la bonne humeur !**
+À l'âge de 40 ans, je possède une soif d'apprendre inépuisable et une motivation sans faille pour rester à la pointe des dernières avancées technologiques. Je suis convaincu que mes compétences techniques solides, mon désir d'apprendre et ma passion pour le développement web feront de moi un atout précieux pour toute entreprise.
 
 ---
 
