@@ -34,10 +34,12 @@
 -   **Windows** : <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" style="padding: 0 12px" height="30">
 -   **macOS** : <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="*MAC" style="padding: 0 12px" height="30"/>
 -   **Linux** : <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" style="padding: 0 12px" height="30"/><img src="https://upload.vectorlogo.zone/logos/kali/images/09452257-ce76-4881-8cb9-c6a676444ca5.svg" alt="kali-linux" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg" alt="centos" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg" alt="alpine" style="padding: 0 12px" height="30"/>
+
+--- 
+
 -   **Shell** : <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="padding: 0 12px" height="30"/><img src="https://zonetuto.fr/wp-content/uploads/2022/12/zsh-terminal-macos-logo.jpg" alt="bash" style="padding: 0 12px" height="30"/>
 
 -   **IDE** : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" style="padding: 0 12px" height="30"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="vscode community" style="padding: 0 12px" height="30"/>
--   **Navigateurs supportés** : <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" alt="centos" style="padding: 0 12px" height="30"/>
 
 ## Frontend
 
@@ -75,19 +77,16 @@
 
 ## DevOps
 
--   **Contrôle de version** : <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" style="padding: 0 12px" height="30"/>
+-   **Infrastructure** : docker, vagrant, nginx, virtualbox
+-   **Contrôle de version** : git, github, gitlab, bitbucket
+-   **CI/CD** : Github Actions & Jenkins
+-   **Monitoring** : graphana, prometheus
 
--   **Infrastructure** : <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" style="padding: 0 10px 0 " height="30"/><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" style="padding: 0 12px" height="30"/>
+## A voir un jour
 
--   **Configuration Management** : <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg" alt="chef" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg" alt="puppet" style="padding: 0 12px" height="30"/>
-
--   **Monitoring** : <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="graphana" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/graylog/graylog-ar21.svg" alt="graylog" style="padding: 0 12px" height="30"/>
-
--   **Qualité du code** : <img src="https://vectorwiki.com/images/vynW5__sonarqube.svg" alt="SonarQube" style="padding: 0 12px" height="30"/>
-
--   **Gestion de projet** : <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" style="padding: 0 12px" height="30"/><img src="https://img.icons8.com/?size=512&id=h8EoAfgRDYLo&format=png" alt="Confluence" style="padding: 0 12px" height="30"/>
-
--   **CI/CD** : <img src="https://gitlab.adullact.net/uploads/-/system/project/avatar/637/gitlab-ci-cd-logo_2x.png" alt="gitlab ci/cd" style="padding: 0 12px" height="30"/><img src="https://miro.medium.com/v2/resize:fit:1157/1*tq3p0Fxst1czDFpxgvb48Q.png" alt="Bitbucket Pipelines" style="padding: 0 12px" height="30"/>
+-   **Configuration Management** : Ansible
+-   **Qualité du code** : Sonarqub
+-   **Gestion de projet** : Jira & Confluence
 
 <h3 align="center" style="margin: 50px 0; text-transform: uppercase;">Quelques projets</h3>
 
