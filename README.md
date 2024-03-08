@@ -37,9 +37,11 @@
 
 --- 
 
--   **Shell** : <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="padding: 0 12px" height="30"/><img src="https://zonetuto.fr/wp-content/uploads/2022/12/zsh-terminal-macos-logo.jpg" alt="bash" style="padding: 0 12px" height="30"/>
+## Outils
 
--   **IDE** : <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" style="padding: 0 12px" height="30"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="vscode community" style="padding: 0 12px" height="30"/>
+-   **Standards** : w3c
+-   **Shell** : bash, zsh
+-   **IDE** : Visual Studio Code & Visual Studio Code Community
 
 ## Frontend
 
@@ -73,7 +75,7 @@
 -   **Gestion de paquets** : <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/bower/bower-icon.svg" alt="bower" style="padding: 0 12px" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/composer/composer-original.svg" alt="composer" style="padding: 0 12px" height="30"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/1b8f5561d14ba9b8cf760c0df2fe56338cdcdbb3/logos/pnpm.svg" alt="pnpm" style="padding: 0 12px" height="30" />
 -   **Outils collaboration** : <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg" alt="markdown" style="padding: 0 10px 0 0" height="30"/><img src="https://www.vectorlogo.zone/logos/deepl/deepl-icon.svg" alt="deepl" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" style="padding: 0 12px" height="30"/>
 
--   **Standards** : <img src="https://www.vectorlogo.zone/logos/w3c/w3c-ar21.svg" alt="w3c" style="padding: 0 12px" height="30"/>
+
 
 ## DevOps
 
