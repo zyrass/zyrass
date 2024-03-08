@@ -25,17 +25,14 @@
 
 ---
 
-<div align="center"><img align="center" alt="Coding" width="50%" src="dev.gif" style="padding:25px 0 0"/></div>
-
 <h3 align="center" style="margin: 50px 0 25px; text-transform: uppercase">💼 J'apprends et j'utilise</h3>
 
 ## Système d'exploitation
 
--   **Windows** : <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" style="padding: 0 12px" height="30">
--   **macOS** : <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="*MAC" style="padding: 0 12px" height="30"/>
--   **Linux** : <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" style="padding: 0 12px" height="30"/><img src="https://upload.vectorlogo.zone/logos/kali/images/09452257-ce76-4881-8cb9-c6a676444ca5.svg" alt="kali-linux" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg" alt="centos" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg" alt="alpine" style="padding: 0 12px" height="30"/>
-
---- 
+-   **Windows** : Windows 2000, xp, seven, 10, 11
+-   **macOS** : Imac (1 an)
+-   **Linux** : Ubuntu, Kali Linux, Rocky Linux 9 (server)
+-   **Runtime JavaScript** : Nodejs
 
 ## Outils
 
@@ -45,6 +42,13 @@
 -   **Maquette** : Figma / Canva
 -   **Icones** : fontawesome
 -   **Templating** : EJS, PUG
+-   **collaboration** : Trello, Markdown
+-   **Déploiement** : PM2
+-   **API** : PostMan
+-   **SGBD** : Erd Editor, Workbench, Compass, phpmyadmin
+-   **Gestion de paquets** : npm, yarn, pnpm
+-   **Déploiement** : microsoft azure, 1and1, heroku, netlify
+-   **Tests** : Jest, Cypress
 
 ## Frontend
 
@@ -55,35 +59,16 @@
 
 ## Backend
 
--   **Langages** : <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" style="padding: 0 12px" height="30"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" style="padding: 0 12px" height="30"/><img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" style="padding: 0 12px" height="30"/><img src="https://www.horus.ch/wp-content/uploads/2020/12/php8.png" alt="php" style="padding: 0 5px 0" height="30"/><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" style="padding: 0 12px" height="30"/>
-
--   **Frameworks** : <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".net" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nest" style="padding: 0 12px" height="30"/>
-
--   **Base de données** : <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" style="padding: 0 12px" height="30"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" style="padding: 0 12px" height="30"/>
-
--   **ORM** : <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="nodejs" style="padding: 0 12px" height="30"/><img src="https://static-00.iconduck.com/assets.00/doctrine-icon-1550x2048-2h0ef9c6.png" alt="doctrine"  style="padding: 0 12px" height="18W3C"/>
-
--   **Outils** : <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="padding: 0 12px" height="30" /><img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpmyadmin" style="padding: 0 12px" height="30" /><img src="https://raw.githubusercontent.com/uiwjs/file-icons/00092fb19e0357a7d8e1cec4f909c7be24c426e9/icon/twig.svg" alt="symfony" style="padding: 0 12px" height="30"/><img src="https://static.javatpoint.com/python/images/tkinter-tutorial.png" alt="tkinter" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" style="padding: 0 12px" height="30">
-
--   **Outils supplémentaires** : <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="nodemon" style="padding: 0 12px" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="pm2" style="padding: 0 12px" height="30" />
-
--   **Message broker** : <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Apache Kafka" style="padding: 0 12px" height="30" />
-
--   **Déploiement** : <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Microsoft Azure" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/1and1/1and1-icon.svg" alt="1&1" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/pm2io/pm2io-icon.svg" alt="pm2" style="padding: 0 12px" height="30"/>
-
--   **Intégration continue** : <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="jenkins" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg" alt="jenkins" style="padding: 0 12px" height="30"/>
-
--   **Tests** : <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" style="padding: 0 12px" height="30"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/PHPUnit_Logo.svg" alt="phpunit" style="padding: 0 12px" height="30"/><img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="selenium" style="padding: 0 12px" height="30"/><img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="cypress" style="padding: 0 12px" height="30"/>
--   **Gestion de paquets** : <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" alt="yarn" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/bower/bower-icon.svg" alt="bower" style="padding: 0 12px" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/composer/composer-original.svg" alt="composer" style="padding: 0 12px" height="30"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/1b8f5561d14ba9b8cf760c0df2fe56338cdcdbb3/logos/pnpm.svg" alt="pnpm" style="padding: 0 12px" height="30" />
--   **Outils collaboration** : <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg" alt="markdown" style="padding: 0 10px 0 0" height="30"/><img src="https://www.vectorlogo.zone/logos/deepl/deepl-icon.svg" alt="deepl" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" style="padding: 0 12px" height="30"/>
-
-
+-   **Langages** : JavaScript, Typescript, ASP.Net, C#
+-   **Frameworks** : express, .Net, Nestjs
+-   **Base de données** : mongodb, mysql, sqlite, json
+-   **ODM (Object Data Modeling)** : Mongoose
 
 ## DevOps
 
 -   **Infrastructure** : docker, vagrant, nginx, virtualbox
 -   **Contrôle de version** : git, github, gitlab, bitbucket
--   **CI/CD** : Github Actions & Jenkins
+-   **CI/CD (Intégration continue)** : Github Actions & Jenkins
 -   **Monitoring** : graphana, prometheus
 
 ## A voir un jour
