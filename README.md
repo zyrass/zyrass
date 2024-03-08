@@ -42,14 +42,16 @@
 -   **Standards** : w3c
 -   **Shell** : bash, zsh
 -   **IDE** : Visual Studio Code & Visual Studio Code Community
+-   **Maquette** : Figma / Canva
+-   **Icones** : fontawesome
+-   **Templating** : EJS, PUG
 
 ## Frontend
 
--   **Langages** : <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" style="padding: 0 12px" height="30"/><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" style="padding: 0 12px" height="30"/>
--   **Frameworks** : <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" style="padding: 0 12px" height="30"/><img src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg" alt="next" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" style="padding: 0 12px" height="30"/><img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" alt="next" style="padding: 0 12px" height="30"/>
--   **Préprocesseur CSS** : <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" style="padding: 0 12px" height="30"/>
--   **Outils** : <img src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-512x512-8iaxdppx.png" alt="chromeDevTools" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="canva" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-ar21.svg" alt="fontawesome" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg" alt="pug" style="padding: 0 12px" height="30"/><img src="https://raw.githubusercontent.com/uiwjs/file-icons/00092fb19e0357a7d8e1cec4f909c7be24c426e9/icon/ejs.svg" alt="ejs" style="padding: 0 12px" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="padding: 0 12px" height="30"/><img src="https://iconape.com/wp-content/files/kq/352997/svg/materialize-seeklogo.com.svg" alt="Materialize" style="padding: 0 12px" height="30"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" style="padding: 0 12px" height="30"/><img src="https://vectorwiki.com/images/ZzFcA__bulma.svg" alt="Bulma" style="padding: 0 12px" height="30"/>
--   **Standards** : <img src="https://www.vectorlogo.zone/logos/w3c/w3c-ar21.svg" alt="w3c" style="padding: 0 12px" height="30"/>
+-   **Langages** : HTML5, CSS3, JavaScript, TypeScript
+-   **Frameworks client** : Angular
+-   **Framework css** : Tailwindcss
+-   **Préprocesseur CSS** : sass
 
 ## Backend
 
