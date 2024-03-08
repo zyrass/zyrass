@@ -23,8 +23,6 @@
 
 À l'âge de 40 ans, je possède une soif d'apprendre inépuisable et une motivation sans faille pour rester à la pointe des dernières avancées technologiques. Je suis convaincu que mes compétences techniques solides, mon désir d'apprendre et ma passion pour le développement web feront de moi un atout précieux pour toute entreprise.
 
----
-
 <h3 align="center" style="margin: 50px 0 25px; text-transform: uppercase">💼 J'apprends et j'utilise</h3>
 
 ## Système d'exploitation
