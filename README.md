@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./net.jpg" alt="arduino" />
+    <img src="./result.png" alt="img" />
 </p>
 
 <p align="center">
