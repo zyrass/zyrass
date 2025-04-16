@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./result.png" alt="img" />
+    <img src="./chatgpt01.png" alt="img" />
 </p>
 
 <p align="center">
@@ -9,73 +9,130 @@
         />
 </p>
 
----
+<h1 align="center" style="margin:50px 0;">À propos de moi</h1>
 
-<h1 align="center" style="margin:50px 0;">Développeur Full Stack certifié (Bac+4)<br> Avec les félicitations du jury</h1>
-<h2 align="center" style="margin:50px 0;">Construisons l'avenir ensemble</h2>
+**Développeur Full Stack certifié** ( _Bac+4_ )<br>
+Obtenu avec les félicitations du jury, en reconversion vers une nouvelle certification : _**Expert en Sécurité Digitale**_ .
 
-- Après plusieurs années d'expérience dans le développement web, j'ai décidé de me spécialiser dans une stack technique ciblée comprenant Angular, C#, ASP.NET et NestJS pour la partie MongoDB. Cette décision stratégique me permettra d'approfondir mes compétences et de devenir un expert dans ces technologies de pointe.
-- Côté Front-end, Angular est mon framework de prédilection pour développer des applications web modernes, performantes et évolutives. Sa structure basée sur TypeScript et son écosystème riche offrent une expérience de développement fluide et productive.
-- Pour le Back-end, j'ai opté pour C# et ASP.NET, un environnement robuste et fiable, particulièrement adapté aux applications d'entreprise. Je cherche à apprendre également NestJS, un framework Node.js puissant, pour interagir avec des bases de données MongoDB.
-- Du côté des opérations, j'apprécie travailler avec des outils comme NGinx, Docker et Github Actions. Je suis à l'aise avec Git et désireux d'explorer davantage Jenkins pour l'intégration et le déploiement continus.
+Passionné par les **technologies du web**, la **Cybersécurité** et le **DevSecOps**, je poursuis activement ma formation dans le domaine de la sécurité informatique<br>
 
-> Actuellement, je recherche un poste en CDI dans la région lyonnaise, où je pourrai affiner mon code, partager mon expérience et continuer à apprendre. Mon objectif est de devenir un expert reconnu dans les technologies citées précédemment.
+✅ **Objectif actuel** : Finaliser la présentation et la soutenance de ma formation d'ici le 29 avril 2025.
 
-À l'âge de 40 ans, je possède une soif d'apprendre inépuisable et une motivation sans faille pour rester à la pointe des dernières avancées technologiques. Je suis convaincu que mes compétences techniques solides, mon désir d'apprendre et ma passion pour le développement web feront de moi un atout précieux pour toute entreprise.
+À 40 ans, je reste animé par une soif d'apprendre inépuisable et une motivation constante pour rester à la pointe des dernières avancées technologiques.
 
-<h3 align="center" style="margin: 50px 0 25px; text-transform: uppercase">💼 J'apprends et j'utilise</h3>
+<br><hr><br>
 
 ## Système d'exploitation
 
--   **Windows** : Windows 2000, xp, seven, 10, 11
--   **macOS** : Imac (1 an)
--   **Linux** : Ubuntu, Kali Linux, Rocky Linux 9 (server)
--   **Runtime JavaScript** : Nodejs
+-   **Windows** : Windows 98, ME, 2000, XP, 7, 10, 11
+-   **macOS** : 1 an d'expérience
+-   **Linux** : Ubuntu, Debian, Kali, Parrot OS, Rocky Linux 9 (serveur)
 
-## Outils
+<br>
 
--   **Standards** : w3c
--   **Shell** : bash, zsh
--   **IDE** : Visual Studio Code & Visual Studio Code Community
--   **Maquette** : Figma / Canva
--   **Icones** : fontawesome
--   **Templating** : EJS, PUG
--   **collaboration** : Trello, Markdown
--   **Déploiement** : PM2
--   **API** : PostMan
--   **SGBD** : Erd Editor, Workbench, Compass, phpmyadmin
--   **Gestion de paquets** : npm, yarn, pnpm
--   **Déploiement** : microsoft azure, 1and1, heroku, netlify
--   **Tests** : Jest, Cypress
+## Compétences techniques
 
-## Frontend
+<br>
+
+**Frontend**
 
 -   **Langages** : HTML5, CSS3, JavaScript, TypeScript
--   **Frameworks client** : Angular
--   **Framework css** : Tailwindcss
--   **Préprocesseur CSS** : sass
+-   **Frameworks** : Angular, React (Librairie)
+-   **UI & CSS** : TailwindCSS, Bulma, Bootstrap, Sass
+-   **Outils de test & doc** : Docusaurus, Compodoc, Swagger, Mermaid, Jest, Jasmine, Karma, Cypress, PhpUnit
 
-## Backend
+<br>
 
--   **Langages** : JavaScript, Typescript, ASP.Net, C#
--   **Frameworks** : express, .Net, Nestjs
--   **Base de données** : mongodb, mysql, sqlite, json
--   **ODM (Object Data Modeling)** : Mongoose
+**Backend**
 
-## DevOps
+-   **Runtime JavaScript** : Nodejs
+-   **Langages** : PHP (Larave), Python, Java (Spring Boot)
+-   **Frameworks & Outils** : Express, EJS, PUG, Twig
+-   **Base de données** : MongoDB, MySQL (maria db), SQLite,PostgreSQL
+-   **ORM (Object Relational Modeling) / ODM (Object Data Modeling)** : Eloquent, Mongoose
+-   **Authentification & API** : JWT, Postman
 
--   **Infrastructure** : docker, vagrant, nginx, virtualbox
--   **Contrôle de version** : git, github, gitlab, bitbucket
+<br>
+
+**DevSecOps - (Sécurité + Déploiement + Observabilité)**
+
 -   **CI/CD (Intégration continue)** : Github Actions & Jenkins
+-   **Containers & Orchestration** : Docker, Kubernetes (k8s), Helm, Vault
+-   **Infrastructure as Code & automation** : Ansible, OpenTodu, Packer
 -   **Monitoring** : graphana, prometheus
+-   **Sécurité & Qualité du code** : SonarQube, Trivy (scan d'images Docker), Checkov (audit IaC), Bandit (analyse de code Python), ESLint/TSLint (JS/TS)
+-   **Serveurs & virtualisation**: Vagrant, Nginx, Apache, Virtualbox, PM2
+-   **Contrôle de version** : git (GitHub,GitLab,Bitbucket)
 
-## A voir un jour
+<br>
 
--   **Configuration Management** : Ansible
--   **Qualité du code** : Sonarqub
--   **Gestion de projet** : Jira & Confluence
+**Cloud & Services**
 
-<h3 align="center" style="margin: 50px 0; text-transform: uppercase;">Quelques projets</h3>
+-   **Cloud Provider** : AWS
+-   **Services AWS**: IAM (gestion des accès), S3, EC2, VPC, CloudWatch, Lambda
+
+<br>
+
+**Mobile**
+
+-   **Frameworks** : Kotlin multiplateform, react native
+
+<br>
+
+---
+
+<br>
+
+## CyberSécurité - (Red Team + Blue Team + Forensic)
+
+<br>
+
+**Pentest & Audit**
+
+-   Wapiti, Nikto, Nmap, Gobuster, OWASP ZAP, Burp Suite
+-   TheHarvester, Metasploit, Medusa, JohnTheRipper, Hydra, SQLmap
+
+<br>
+
+**Blue TEAM / Forensic / Analyse**
+
+-   ClamAV, rkhunter, Suricata, Snort
+-   Volatility, Foremost, Scalpel, Wireshark, Yara, CyberChef
+-   dc3dd, dd, SCP, Lynis, Wazuh
+
+<br>
+
+**Gouvernance & Conformité**
+
+-   Ebios-RM, PIA, ISO 27001/27002, NIS 2, connaissance en SMSI
+
+<br><hr><br>
+
+## Outils & Productivité
+
+<br>
+
+-   **IDE** : Visual Studio Code & Visual Studio Code Community
+-   **Templating** : EJS, PUG, TWIG
+-   **Design & Maquettage** : Figma, FigJam, Canva
+-   **Shell** : bash, zsh
+-   **collaboration** : Trello, Markdown
+-   **SGBD** : MySQL Workbench, MongoDB Compass, phpmyadmin
+-   **Standards** : W3C, WCAG
+-   **Package managers** : npm, yarn, pnpm, composer
+-   **Déploiement** : Microsoft Azure, 1and1, heroku, netlify, OVH
+
+<br>
+
+---
+
+<h3 align="center" style="margin:50px 0;">Ce que je vous propose, c'est de construire l'avenir ensemble</h3>
+
+---
+
+<br>
+
+<h2 align="center" style="margin: 50px 0; text-transform: uppercase;">Quelques projets</h2>
 
 <div align="center">
 <a href="https://github.com/Zyrass/Bash-L_Store">
